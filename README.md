@@ -3,13 +3,15 @@
   The purpose of this analysis was to analyze the Amazon reviews written by members of the paid Amazon Vine Program. There were a lot of different products that neededto be analyzed but I decided to choose gift cards.
   
 ## Results 
- `Reviews`
+`Reviews`
   + There were no Vine reviews 
   + There were 355 None-Vine reviews
+  
 `5 Stars`
   + There were 0 Vine reviews(non-applicable)
   + There were 90 Non-Vine that recieved 5 stars
- `Percentage of reviews`
+ 
+`Percentage of reviews`
   + Non-applicable for Vine reviews
   + 25% of the Non-Vine reviews were 5 stars
  
